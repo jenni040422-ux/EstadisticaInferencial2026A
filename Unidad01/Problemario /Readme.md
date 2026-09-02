@@ -1,4 +1,4 @@
-| Promedio de exámenes cortos | Promedio final |
+| Promedio_de_exámenes_cortos | Promedio_final |
 |--------------|--------------|
 | 59 | 64 |
 | 92 | 84 |
