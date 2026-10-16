@@ -2,7 +2,7 @@
 
 ## Insights into Student Performance and Contributing Factors
 
-![Student Performance Factors](https://storage.googleapis.com/kaggle-datasets-images/5630996/9300081/84d02a32a0466e1ca7d85f83a0367bce/dataset-cover.jpg?t=2024-09-02-10-29-26)
+![Student Performance Factors]
 
 ## About Dataset
 
