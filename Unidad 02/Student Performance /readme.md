@@ -1,34 +1,85 @@
-# Student Performance Factors
+# 📚 Student Performance Dataset
 
-## Insights into Student Performance and Contributing Factors
+## 📝 Descripción
 
-## About Dataset
+El **Student Performance Dataset** es un conjunto de datos diseñado para analizar los factores que influyen en el rendimiento académico de los estudiantes.
 
-### Description
+El dataset contiene **10,000 registros de estudiantes**, donde cada registro incluye información sobre diversas variables predictoras y un índice de desempeño académico.
 
-This dataset provides a comprehensive overview of various factors affecting student performance in exams. It includes information on study habits, attendance, parental involvement, and other aspects influencing academic success.
+La base de datos está [aquí.](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression)
 
-### Column Descriptions
+---
 
-| **Attribute** | **Description** |
-|:---|:---|
-| `Hours_Studied` | Number of hours spent studying per week. |
-| `Attendance` | Percentage of classes attended. |
-| `Parental_Involvement` | Level of parental involvement in the student's education (Low, Medium, High). |
-| `Access_to_Resources` | Availability of educational resources (Low, Medium, High). |
-| `Extracurricular_Activities` | Participation in extracurricular activities (Yes, No). |
-| `Sleep_Hours` | Average number of hours of sleep per night. |
-| `Previous_Scores` | Scores from previous exams. |
-| `Motivation_Level` | Student's level of motivation (Low, Medium, High). |
-| `Internet_Access` | Availability of internet access (Yes, No). |
-| `Tutoring_Sessions` | Number of tutoring sessions attended per month. |
-| `Family_Income` | Family income level (Low, Medium, High). |
-| `Teacher_Quality` | Quality of the teachers (Low, Medium, High). |
-| `School_Type` | Type of school attended (Public, Private). |
-| `Peer_Influence` | Influence of peers on academic performance (Positive, Neutral, Negative). |
-| `Physical_Activity` | Average number of hours of physical activity per week. |
-| `Learning_Disabilities` | Presence of learning disabilities (Yes, No). |
-| `Parental_Education_Level` | Highest education level of parents (High School, College, Postgraduate). |
-| `Distance_from_Home` | Distance from home to school (Near, Moderate, Far). |
-| `Gender` | Gender of the student (Male, Female). |
-| `Exam_Score` | Final exam score. |
+## 📊 Variables
+
+### ⏱️ Hours Studied
+
+Número total de horas dedicadas al estudio por cada estudiante.
+
+### 📈 Previous Scores
+
+Puntuaciones obtenidas por los estudiantes en evaluaciones anteriores.
+
+### 🎭 Extracurricular Activities
+
+Indica si el estudiante participa en actividades extracurriculares.
+
+**Valores posibles:**
+
+* Yes
+* No
+
+### 😴 Sleep Hours
+
+Promedio de horas de sueño que el estudiante tiene por día.
+
+### 📄 Sample Question Papers Practiced
+
+Cantidad de exámenes o cuestionarios de práctica resueltos por el estudiante.
+
+---
+
+## 🎯 Variable Objetivo
+
+### Performance Index
+
+Medida global del rendimiento académico de cada estudiante.
+
+**Características:**
+
+* Representa el desempeño académico general.
+* Está redondeado al número entero más cercano.
+* Su rango va de **10 a 100**.
+* Un valor más alto indica un mejor rendimiento académico.
+
+---
+
+## 🔍 Objetivo del Dataset
+
+Este conjunto de datos busca proporcionar información sobre la relación entre las variables predictoras y el índice de rendimiento académico.
+
+Los investigadores y analistas de datos pueden utilizarlo para explorar cómo influyen factores como:
+
+* Horas de estudio
+* Calificaciones previas
+* Participación en actividades extracurriculares
+* Horas de sueño
+* Práctica mediante exámenes de muestra
+
+en el desempeño académico de los estudiantes.
+
+---
+
+## ⚠️ Nota Importante
+
+> Este dataset es **sintético** y fue creado únicamente con fines ilustrativos.
+>
+> Las relaciones entre las variables y el índice de rendimiento pueden no reflejar situaciones reales ni comportamientos observados en contextos educativos reales.
+
+La base de datos está [aquí.](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression)
+
+---
+
+## 📄 Licencia
+
+**Uso libre.**
