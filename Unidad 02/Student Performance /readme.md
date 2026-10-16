@@ -2,8 +2,6 @@
 
 ## Insights into Student Performance and Contributing Factors
 
-![Student Performance Factors]
-
 ## About Dataset
 
 ### Description
